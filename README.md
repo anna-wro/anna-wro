@@ -16,5 +16,5 @@ React • Next.js • Typescript • Tailwind CSS • HTML5 • CSS3 • Javascr
 ![Accessibility](https://img.shields.io/badge/-Accessibility-EEE92D?style=flat)
 ![Gamification](https://img.shields.io/badge/-Gamification-BCD548?style=flat)
 ![Xenoblade Chronicles](https://img.shields.io/badge/-Xenoblade_Chronicles-4BC0BB?style=flat)
-![Neurodivergence](https://img.shields.io/badge/-Neurodivergence-18ACD8?style=flat)
-![Cats again](https://img.shields.io/badge/-Cats%20(again)-8E55A0?style=flat)
+![Neurodivergence](https://img.shields.io/badge/-Neurodivergence-37A3E9?style=flat)
+![Cats again](https://img.shields.io/badge/-Cats%20(again)-6465DA?style=flat)
