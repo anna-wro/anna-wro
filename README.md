@@ -23,7 +23,7 @@ Love to work on projects that I believe in, especially those related to improvin
 ![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-0A68DA?style=flat&logo=octopusdeploy&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
-#### 🌈 Let's chat about 
+#### 🌿 Let's chat about 
 ![Cats](https://img.shields.io/badge/-Cats-EF5280?style=flat)
 ![Front-End](https://img.shields.io/badge/-Front--End-FCB71E?style=flat)
 ![Accessibility](https://img.shields.io/badge/-Accessibility-EEE92D?style=flat)
