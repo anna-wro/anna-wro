@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hello! 🌷
 
 I'm Anna, a front-end engineer and a cat behaviorist 🐈. 
 
@@ -6,7 +6,7 @@ Love to work on projects that I believe in, especially those related to improvin
 
 [![linkedin/anna-wrobel](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](http://www.linkedin.com/in/anna-wrobel)
 
-#### ✨ I create things with
+#### 🌱 I create things with
 
 ![React](https://img.shields.io/badge/-React-62DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Nexj.js-404040?style=flat&logo=nextdotjs&logoColor=white)
@@ -22,3 +22,12 @@ Love to work on projects that I believe in, especially those related to improvin
 ![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-React_Testing_Library-0A68DA?style=flat&logo=octopusdeploy&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+
+#### 🌈 Let's chat about 
+![Cats](https://img.shields.io/badge/-Cats-EF5280?style=flat)
+![Front-End](https://img.shields.io/badge/-Front--End-FCB71E?style=flat)
+![Accessibility](https://img.shields.io/badge/-Accessibility-EEE92D?style=flat)
+![Gamification](https://img.shields.io/badge/-Gamification-BCD548?style=flat)
+![Xenoblade Chronicles](https://img.shields.io/badge/-Xenoblade_Chronicles-4BC0BB?style=flat)
+![Neurodivergence](https://img.shields.io/badge/-Neurodivergence-18ACD8?style=flat)
+![Cats again](https://img.shields.io/badge/-Cats%20(again)-8E55A0?style=flat)
