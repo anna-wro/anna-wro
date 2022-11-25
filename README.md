@@ -6,7 +6,7 @@ Love to work on projects that I believe in, especially those related to improvin
 
 [![linkedin/anna-wrobel](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](http://www.linkedin.com/in/anna-wrobel)
 
-## ✨ I create things with
+#### ✨ I create things with
 
 ![React](https://img.shields.io/badge/-React-62DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Nexj.js-404040?style=flat-square&logo=nextdotjs&logoColor=white)
