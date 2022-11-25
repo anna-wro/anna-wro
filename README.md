@@ -1,4 +1,4 @@
-### 🌷Hello!
+### Hello!
 
 I'm Anna, a front-end engineer and a cat behaviorist 🐈. 
 
