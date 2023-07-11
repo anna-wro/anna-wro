@@ -2,7 +2,9 @@
 
 I'm Anna, a front-end engineer and a cat behaviorist 🐈. 
 
-Love to work on projects that I believe in, especially those related to improving both humans' and pets' lives. I also care about web accessibility.
+Throughout my career, I have actively contributed to projects aimed at improving user retention and engagement. This includes implementing gamification strategies and driving app installations to enhance user experiences and promote long-term platform usage. 
+
+I have a genuine passion for user experience and find satisfaction in working on visible features that directly impact user satisfaction. I also prioritize the technical feasibility of implementations, seeking a balance between visual results and efficient development.
 
 [![linkedin/anna-wrobel](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](http://www.linkedin.com/in/anna-wrobel)
 
